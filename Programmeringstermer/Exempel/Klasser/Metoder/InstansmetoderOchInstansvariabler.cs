@@ -5,8 +5,8 @@
         public int MittInt; //Instansvariabel
 
         public void MinMetod() //InstansMetod
-        { 
-            /* massor med kod */ 
+        {
+            /* massor med kod */
         }
     }
 

@@ -12,11 +12,10 @@ namespace Programmeringstermer.Exempel.Klasser.Destructor
 
     //public void main()
     //{
-
     //    // Instansiera klass
     //    Destructor_demo demo = new Destructor_demo();
     //    // Döda klassen
-    //    demo = null; 
+    //    demo = null;
     //               // Köra igång Garbage collectorn
     //               // annars kommer Destructorn att triggas
     //               // först när main() avslutas

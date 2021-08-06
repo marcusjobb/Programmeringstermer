@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Programmeringstermer.Exempel.Klasser.Hashvärden
 {
@@ -10,14 +6,14 @@ namespace Programmeringstermer.Exempel.Klasser.Hashvärden
     {
         public void Run()
         {
-            //Förbered olika variabler i minnet 
+            //Förbered olika variabler i minnet
             int x = 5;
             double d = 2.5;
             string a = "a";
             string b = "b";
             string ab = "ab";
 
-            //Skriv ut hashvärdena 
+            //Skriv ut hashvärdena
             Console.WriteLine("Typ Värde\t\t\t Hashcode");
             Console.WriteLine(new string('-', 50));
             Console.WriteLine("int : {0}\t\t --> \t{1}", x, x.GetHashCode());
@@ -28,13 +24,13 @@ namespace Programmeringstermer.Exempel.Klasser.Hashvärden
 
             //Resultatet blir detta
             //(värdena förändras varje körning)
-            //Typ Värde Hashcode 
-            //-------------------------------------------------- 
-            //int : 5 --> 5 
-            //double : 2,5 --> 1074003968 
-            //string : a --> -842352705 
-            //string : b --> -842352706 
-            //string : ab --> -840386625 
+            //Typ Värde Hashcode
+            //--------------------------------------------------
+            //int : 5 --> 5
+            //double : 2,5 --> 1074003968
+            //string : a --> -842352705
+            //string : b --> -842352706
+            //string : ab --> -840386625
         }
     }
 }

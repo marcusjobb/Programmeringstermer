@@ -1,28 +1,26 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Variabler.ByRef
+﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.ByRef
 {
-public class ByRef_demo
-{
-    public void CleanName(ref string name)
+    public class ByRef_demo
     {
-        //Rensa bort mellanslag
-        var newName = name.Trim();
-        //Första bokstaven blir versal
-        var names = newName.ToLower().Split(' ');
-        name = "";
-        foreach (var item in names)
+        public void CleanName(ref string name)
         {
-            // Första bokstaven blir versal
-            var first = char.ToUpper(item[0]);
-            // resten ändras inte
-            var rest = item[1..];
-            // Slå samman allt
-            name += $"{first}{rest} ";
+            //Rensa bort mellanslag
+            var newName = name.Trim();
+            //Första bokstaven blir versal
+            var names = newName.ToLower().Split(' ');
+            name = "";
+            foreach (var item in names)
+            {
+                // Första bokstaven blir versal
+                var first = char.ToUpper(item[0]);
+                // resten ändras inte
+                var rest = item[1..];
+                // Slå samman allt
+                name += $"{first}{rest} ";
+            }
+            name = name.Trim();
         }
-        name = name.Trim();
     }
-}
 
     //internal class Program
     //{

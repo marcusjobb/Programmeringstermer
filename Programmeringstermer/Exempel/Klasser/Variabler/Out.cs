@@ -1,6 +1,7 @@
 ﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.Out
 {
     using System;
+
     public class Cirkel
     {
         public void Run()
@@ -21,7 +22,7 @@
         {
             // Räknar ut arean
             var area = Math.PI * Math.Pow(radius, 2);
-            // Räknar ut omkretsen, observera att 
+            // Räknar ut omkretsen, observera att
             // variabeln är redan deklarerad, till
             // skillnad från area.
             circumference = 2 * Math.PI * radius;

@@ -1,16 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Programmeringstermer.Exempel.Klasser.Metoder.Utparameter
 {
     public class Utparameter_demo
     {
-        string currentDate;
+        private string currentDate;
         public string CurrentDate { get { return currentDate; } }
+
         public Utparameter_demo()
         {
             currentDate = GetLocalDate();
