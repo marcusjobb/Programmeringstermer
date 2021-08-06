@@ -9,7 +9,7 @@ namespace Programmeringstermer.Exempel.Instansiering
             //Instansiering utan parametrar
             MinClass MC = new MinClass();
 
-            //Instansiering av string med 30 streck
+            //Instansiering av sträng med 30 streck
             string line = new string('-', 30);
 
             //Instansiering av en Tuple
