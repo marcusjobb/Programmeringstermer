@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Programmeringstermer.Exempel.Klasser
+namespace Programmeringstermer.Exempel.Klasser.Inparameter
 {
 public class Inparameter_demo
 {
