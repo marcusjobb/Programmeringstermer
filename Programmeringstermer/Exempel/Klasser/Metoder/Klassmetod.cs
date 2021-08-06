@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Klassmetod
+﻿namespace Programmeringstermer.Exempel.Klasser.Metoder.Klassmetod
 {
     internal class Calculator
     {

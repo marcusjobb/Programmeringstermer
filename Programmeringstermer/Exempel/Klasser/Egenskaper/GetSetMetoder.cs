@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.GetSetMetoder
+﻿namespace Programmeringstermer.Exempel.Klasser.Egenskaper.GetSetMetoder
 {
     //public void main()
     //{

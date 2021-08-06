@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Programmeringstermer.Exempel.Klasser.Utparameter
+namespace Programmeringstermer.Exempel.Klasser.Metoder.Utparameter
 {
     public class Utparameter_demo
     {

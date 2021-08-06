@@ -1,7 +1,7 @@
-﻿using Programmeringstermer.Exempel.Destructor;
-
-namespace Programmeringstermer.Exempel.Instansiering
+﻿namespace Programmeringstermer.Exempel.Klasser.Instansiering
 {
+    using Programmeringstermer.Exempel.Klasser.Destructor;
+
     public class Instansiering_demo
     {
         public void Run()

@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Properties
+﻿namespace Programmeringstermer.Exempel.Klasser.Egenskaper.Properties
 {
     internal class Person_old_fashion
     {

@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.ClassMedClass
+﻿namespace Programmeringstermer.Exempel.Klasser.ClassMedClass
 {
     internal class ClassMedClass
     {

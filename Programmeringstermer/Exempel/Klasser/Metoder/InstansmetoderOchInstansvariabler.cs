@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.InstansmetoderOchInstansvariabler
+﻿namespace Programmeringstermer.Exempel.Klasser.Metoder.InstansmetoderOchInstansvariabler
 {
     internal class Instansdelar_demo
     {

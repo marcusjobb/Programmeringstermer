@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Glasskiosk
+﻿namespace Programmeringstermer.Exempel.Klasser.Egenskaper.Glasskiosk
 {
     //public void main()
     //{

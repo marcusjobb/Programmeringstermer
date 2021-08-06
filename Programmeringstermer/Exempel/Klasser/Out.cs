@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Programmeringstermer.Exempel.Klasser.Out
+﻿namespace Programmeringstermer.Exempel.Klasser.Out
 {
+    using System;
     public class Cirkel
     {
         public void Run()

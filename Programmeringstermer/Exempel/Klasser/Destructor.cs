@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Programmeringstermer.Exempel.Destructor
+namespace Programmeringstermer.Exempel.Klasser.Destructor
 {
     internal class Destructor_demo
     {

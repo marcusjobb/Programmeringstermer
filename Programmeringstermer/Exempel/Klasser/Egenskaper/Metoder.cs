@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Metoder
+﻿namespace Programmeringstermer.Exempel.Klasser.Egenskaper.Metoder
 {
     public class Metodexempel
     {
