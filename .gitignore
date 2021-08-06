@@ -14,6 +14,7 @@
 Program.cs
 GlobalSuppressions.cs
 Programmeringstermer.sln
+Programmeringstermer.csproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
