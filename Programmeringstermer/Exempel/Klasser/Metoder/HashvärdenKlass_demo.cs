@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Programmeringstermer.Exempel.Klasser
+namespace Programmeringstermer.Exempel.Klasser.Metoder.Hashvärden
 {
     public class HashvärdenKlass_demo
     {

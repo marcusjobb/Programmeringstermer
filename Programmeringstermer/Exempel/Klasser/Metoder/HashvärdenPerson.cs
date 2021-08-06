@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Programmeringstermer.Exempel.Klasser.Hashvärden
+namespace Programmeringstermer.Exempel.Klasser.Metoder.Hashvärden
 {
     internal class Person
     {

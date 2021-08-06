@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Programmeringstermer.Exempel.Klasser.Metoder
+namespace Programmeringstermer.Exempel.Klasser.Metoder.GetType
 {
-    public class GetType
+    public class GetType_demo
     {
         public void Run(object s)
         {
