@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Klasser.Out
+﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.Out
 {
     using System;
     public class Cirkel

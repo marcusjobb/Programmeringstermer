@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Klasser.ReadOnly
+﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.ReadOnly
 {
     internal class UserName
     {

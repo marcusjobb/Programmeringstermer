@@ -1,4 +1,4 @@
-﻿namespace Programmeringstermer.Exempel.Klasser.ByValOchByRef
+﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.ByValOchByRef
 {
     internal class ByValOchByRef_demo
     {

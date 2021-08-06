@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Programmeringstermer.Exempel.Klasser.ByRef
+namespace Programmeringstermer.Exempel.Klasser.Variabler.ByRef
 {
 public class ByRef_demo
 {
