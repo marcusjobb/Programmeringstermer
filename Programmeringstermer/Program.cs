@@ -8,8 +8,6 @@
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var p = new ConstXmas();
-            p.XmasCheck();
         }
     }
 }
