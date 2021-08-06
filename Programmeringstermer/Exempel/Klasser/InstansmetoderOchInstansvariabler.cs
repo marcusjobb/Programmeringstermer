@@ -1,6 +1,6 @@
 ﻿namespace Programmeringstermer.Exempel.InstansmetoderOchInstansvariabler
 {
-    internal class MinClass
+    internal class Instansdelar_demo
     {
         public int MittInt; //Instansvariabel
 
@@ -13,12 +13,12 @@
     //static void main()
     //{
     //    //Instansiera classen
-    //    MinClass MC = new MinClass();
+    //    Instansdelar_demo demo = new Instansdelar_demo();
 
     //    //Tilldela instansvariabeln ett värde
-    //    MC.MittInt = 29;
+    //    demo.MittInt = 29;
 
     //    //Anropa instansmetoden
-    //    MC.MinMetod();
+    //    demo.MinMetod();
     //}
 }

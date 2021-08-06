@@ -2,9 +2,9 @@
 
 namespace Programmeringstermer.Exempel.Destructor
 {
-    internal class MinClass
+    internal class Destructor_demo
     {
-        ~MinClass()
+        ~Destructor_demo()
         {
             Console.WriteLine("Nu är min class död");
         }
@@ -12,8 +12,11 @@ namespace Programmeringstermer.Exempel.Destructor
 
     //public void main()
     //{
-    //    MinClass MC = new MinClass();
-    //    MC = null; // döda klassen
+
+    //    // Instansiera klass
+    //    Destructor_demo demo = new Destructor_demo();
+    //    // Döda klassen
+    //    demo = null; 
     //               // Köra igång Garbage collectorn
     //               // annars kommer Destructorn att triggas
     //               // först när main() avslutas

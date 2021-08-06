@@ -2,12 +2,12 @@
 
 namespace Programmeringstermer.Exempel.Instansiering
 {
-    public class Instansiering
+    public class Instansiering_demo
     {
         public void Run()
         {
             //Instansiering utan parametrar
-            MinClass MC = new MinClass();
+            Destructor_demo demo = new Destructor_demo();
 
             //Instansiering av sträng med 30 streck
             string line = new string('-', 30);

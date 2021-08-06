@@ -2,7 +2,7 @@
 
 namespace Programmeringstermer.Exempel.Klasser.ByRef
 {
-public class TestByRef
+public class ByRef_demo
 {
     public void CleanName(ref string name)
     {

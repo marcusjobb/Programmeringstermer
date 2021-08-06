@@ -1,10 +1,10 @@
 ﻿namespace Programmeringstermer.Exempel.Klasser.ByValOchByRef
 {
-    internal class MinClass
+    internal class ByValOchByRef_demo
     {
         public int MyValue { get; set; }
 
-        public MinClass(int value)
+        public ByValOchByRef_demo(int value)
         {
             this.MyValue = value;
         }
@@ -23,9 +23,9 @@
             ChangeValue(s);
             Console.WriteLine(s);
 
-            MinClass mc = new MinClass(5);
-            ChangeValue(mc);
-            Console.WriteLine(mc.MyValue);
+            ByValOchByRef_demo bvobrd = new ByValOchByRef_demo(5);
+            ChangeValue(bvobrd);
+            Console.WriteLine(bvobrd.MyValue);
         }
 
         //int är ByValue så x kommer aldrig att ändras i metoden som anropade
@@ -39,9 +39,9 @@
             s += "!!!";
         }
         //Classer är ByRef så valuet i dem kan ändras i metoden
-        private static void ChangeValue(MinClass mc)
+        private static void ChangeValue(ByValOchByRef_demo bvobrd)
         {
-            mc.MyValue += 10;
+            bvobrd.MyValue += 10;
         }
     }
     */

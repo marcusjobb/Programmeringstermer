@@ -1,15 +1,15 @@
 ﻿namespace Programmeringstermer.Exempel.ClassMedClass
 {
-    internal class ClassA
+    internal class ClassMedClass
     {
-        internal class AA
+        internal class Underclass
         {
             // Massor med kod
         }
 
-        public ClassA()
+        public ClassMedClass()
         {
-            var aa = new AA(); // Instansierar under-class
+            var aa = new Underclass(); // Instansierar under-class
         }
 
         // Massor med kod
@@ -17,7 +17,7 @@
 
     //internal void main()
     //{
-    //    var a = new ClassA();
-    //    var aa = new ClassA.AA();
+    //    var a = new ClassMedClass();
+    //    var aa = new ClassMedClass.Underclass();
     //}
 }
