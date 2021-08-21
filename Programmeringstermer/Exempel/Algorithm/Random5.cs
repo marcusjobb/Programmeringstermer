@@ -1,4 +1,6 @@
-﻿namespace Programmeringstermer.Exempel.Algorithm
+﻿using System;
+
+namespace Programmeringstermer.Exempel.Algorithm
 {
     public class Random5
     {
