@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Programmeringstermer.Exempel.Interfaces.CollectionInterfaces
+﻿namespace Programmeringstermer.Exempel.Interfaces.CollectionInterfaces
 {
     public class Enemies : IEnumerable
     {
-        string[] Names = new string[] { "Master", "Silent", "Cybermen", "Daleks", "Zygons", "Weeping Angels" };
+        private string[] Names = new string[] { "Master", "Silent", "Cybermen", "Daleks", "Zygons", "Weeping Angels" };
 
         public IEnumerator GetEnumerator()
         {

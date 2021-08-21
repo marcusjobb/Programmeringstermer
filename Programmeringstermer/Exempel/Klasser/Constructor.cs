@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Constructor
+﻿namespace Programmeringstermer.Exempel.Klasser.Constructor
 {
     internal class Constructor_demo
     {

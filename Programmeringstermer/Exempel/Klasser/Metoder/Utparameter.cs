@@ -1,7 +1,4 @@
-﻿using System;
-using System.Globalization;
-
-namespace Programmeringstermer.Exempel.Klasser.Metoder.Utparameter
+﻿namespace Programmeringstermer.Exempel.Klasser.Metoder.Utparameter
 {
     public class Utparameter_demo
     {

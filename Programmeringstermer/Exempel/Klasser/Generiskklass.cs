@@ -1,12 +1,5 @@
 ﻿namespace Programmeringstermer.Exempel.Klasser.Generiskklass
 {
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
     internal class Filehandler<T>
     {
         public void SaveFile(string filename, T data)

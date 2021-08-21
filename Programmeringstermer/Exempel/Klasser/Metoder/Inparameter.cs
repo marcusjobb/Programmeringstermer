@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Metoder.Inparameter
+﻿namespace Programmeringstermer.Exempel.Klasser.Metoder.Inparameter
 {
     public class Inparameter_demo
     {

@@ -1,7 +1,5 @@
 ﻿namespace Programmeringstermer.Exempel.Klasser.Variabler.Out
 {
-    using System;
-
     public class Cirkel
     {
         public void Run()

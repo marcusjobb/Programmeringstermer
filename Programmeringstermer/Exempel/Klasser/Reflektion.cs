@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Programmeringstermer.Exempel.Klasser.Reflektion
+﻿namespace Programmeringstermer.Exempel.Klasser.Reflektion
 {
     public class Reflektion
     {

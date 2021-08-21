@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Metoder.GetType
+﻿namespace Programmeringstermer.Exempel.Klasser.Metoder.GetType
 {
     public class GetType_demo
     {

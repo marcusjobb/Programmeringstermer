@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Egenskaper.BeräknadEgenskap
+﻿namespace Programmeringstermer.Exempel.Klasser.Egenskaper.BeräknadEgenskap
 {
     //public void main()
     //{

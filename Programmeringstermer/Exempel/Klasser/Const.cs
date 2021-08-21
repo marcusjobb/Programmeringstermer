@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Programmeringstermer.Exempel.Klasser.Const
+﻿namespace Programmeringstermer.Exempel.Klasser.Const
 {
     public class ConstExempel
     {
